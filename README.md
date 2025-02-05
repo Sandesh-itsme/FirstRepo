@@ -1,3 +1,3 @@
 # FirstRepo
-My first repository
+My first repository in github
 Author - Sandesh Neupane
